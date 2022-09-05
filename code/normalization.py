@@ -4,6 +4,8 @@
 
 # WARNING: Do not change the file name; Autograder expects it.
 
+# to implement, execute the following command: python normalization.py ../text_file/ReadCounts.txt ../text_file/GeneLengths.txt
+
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
