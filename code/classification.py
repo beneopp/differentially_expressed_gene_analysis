@@ -4,7 +4,11 @@
 
 # WARNING: Do not change the file name; Autograder expects it.
 
-# to implement, execute the following command: python normalization.py ../text_file/ReadCounts.txt ../text_file/GeneLengths.txt
+# to implement, execute the following command: ppython classification.py path_to_dataset/train_gene_expression.npz \ 
+#path_to_dataset/test_gene_expression.npz path_to_dataset/train_labels.npy \ 
+#dataset/test_labels.npy "svm_pipeline"
+
+# However, the numpy files were too large to upload to Github
 
 import sys
 
