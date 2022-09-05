@@ -62,9 +62,9 @@ def find_down_regulated_genes(log_foldchanges, gene_names):
 
 norm_counts = np.loadtxt("output/size_factor_normalized_counts.txt")
 
-gene_names = np.loadtxt("provided_data/GeneNames.txt", dtype=str)
+gene_names = np.loadtxt("../text_files/GeneNames.txt", dtype=str)
 
-labels = np.loadtxt("provided_data/labels.txt").astype(str)
+labels = np.loadtxt("../text_files/labels.txt").astype(str)
 labels[labels == "1.0"] = "case"
 labels[labels == "2.0"] = "control"
 
