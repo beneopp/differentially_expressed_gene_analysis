@@ -10,6 +10,6 @@ normalization.py - I normalized gene expression data using the following methods
 
 dispersion.py - I generated scatter plots to assist in identifying genes that were significantly differentially expressed.
 
-de_genes.py - I hand-wrote the Benjamini-Hochberg correction so that it could be used to correct p-values for multiple comparisons.
+de_genes.py - I hand-wrote the Benjamini-Hochberg correction to be used to correct p-values for multiple comparisons.
 
 classification.py - I implemented Principal Component Analysis (PCA) to analyze the difference in gene expression profile among the different cell types.
