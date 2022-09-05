@@ -2,7 +2,7 @@
 
 # Introduction
 
-The following code was implemented based on an assignment for a Computational Genomics course at Carnegie Mellon University. The assignment write-up can be found in hw_2.pdf. This assignment demonstrates my skills in normalization, normalization.py, differential gene expression analysis, dispersion.py and de_genes.py, and cell type differentiation, classification.py.
+The following code was implemented based on an assignment for a Computational Genomics course at Carnegie Mellon University. This assignment write-up can be found in hw_2.pdf. The code in the code folder demonstrates my skills in normalization (see normalization.py), differential gene expression analysis (see dispersion.py and de_genes.py), and cell type differentiation (see classification.py).
 
 # Code Outline
 
