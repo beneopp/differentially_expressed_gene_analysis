@@ -1,8 +1,10 @@
-2# de_genes.py
+# de_genes.py
 # HW2, Computational Genomics, Spring 2022
 # andrewid:
 
 # WARNING: Do not change the file name; Autograder expects it.
+
+# to implement, execute the following command: python de_genes.py
 
 import sys
 import numpy as np
