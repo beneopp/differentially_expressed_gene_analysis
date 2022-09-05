@@ -1,3 +1,5 @@
+#to implement, execute the following command: python dispersion.py
+
 import numpy as np
 import matplotlib.pyplot as plt
 
